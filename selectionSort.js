@@ -16,7 +16,7 @@ function Selection_sort()
 
         index_min=i;
 
-        for(var j=i+1;j<array_size;j++)
+        for(var j=i+1; j<array_size; j++)
         {
             div_update(divs[j],div_sizes[j],"yellow");//Color update
 
